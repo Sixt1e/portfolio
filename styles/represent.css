@@ -1,0 +1,56 @@
+body {
+    background-color: #030303;
+}
+
+.represent {
+    text-align: center;
+    margin-top: 110px;
+    font-size: 120px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.under_represent {
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: left;
+    margin-top: 110px;
+    margin-left: 100px;
+    width: 470px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+.first_li, .li {
+    color: #FFFFFF;
+}
+
+.bar_p,
+.p_2022,
+.portfolio_p {
+    color: #FFFFFF;
+}
+
+.represent_page {
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 110px;
+    display: block;
+}
+
+.images_represent {
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 200px;
+    display: block;
+}
+
+.images_represent_phone {
+    margin: 0 auto;
+    margin-top: 200px;
+    display: block;
+}

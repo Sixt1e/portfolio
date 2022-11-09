@@ -1,0 +1,39 @@
+@media screen and (max-width: 1199px) {
+    .container {
+        width: 960px;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    .container {
+        width: 720px;
+    }
+
+    .dolina, .violet, .varmilo, .cyber {
+        font-size: 90px;
+    }
+
+    .dolina_page, .images_dolina,
+    .violet_page, .images_violet,
+    .varmilo_page, .images_varmilo,
+    .cyber_page, .images_cyber {
+        width: 710px;
+    }
+
+}
+
+
+@media screen and (max-width: 767px) {
+    .container {
+        width: 540px;
+    }
+
+    .dolina_page, .images_dolina,
+    .violet_page, .images_violet,
+    .varmilo_page, .images_varmilo,
+    .cyber_page, .images_cyber {
+        width: 530px;
+    }
+
+}

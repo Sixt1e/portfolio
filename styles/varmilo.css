@@ -1,0 +1,61 @@
+.varmilo_page {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 110px;
+    display: block;
+}
+
+body {
+    background-color: #0B0B0B;
+}
+
+h1 {
+    color: #FFFEFA;
+}
+
+.first_li, .li {
+    color: #FFFEFA;
+}
+
+.images_varmilo {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+}
+
+.blog_page {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+}
+
+.varmilo {
+    text-align: center;
+    margin-top: 110px;
+    font-size: 120px;
+    font-weight: 500;
+    color: #FFFEFA;
+}
+
+.under_varmilo {
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: left;
+    margin-top: 110px;
+    margin-left: 100px;
+    width: 470px;
+    line-height: 150%;
+    color: #FFFEFA;
+}
+
+.bar_p,
+.p_2022,
+.portfolio_p {
+    color: #FFFEFA;
+}
+
+.bottom_bar {
+    margin-bottom: 30px;
+}

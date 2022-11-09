@@ -1,0 +1,50 @@
+.dolina {
+    text-align: center;
+    margin-top: 110px;
+    font-size: 120px;
+    font-weight: 500;
+    color: #002D5C;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.under_dolina {
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: left;
+    margin-top: 110px;
+    margin-left: 100px;
+    width: 470px;
+    line-height: 150%;
+    color: #002D5C;
+}
+
+h1 {
+    color: #002D5C;
+}
+
+.first_li, .li {
+    color: #002D5C;
+}
+
+.bar_p,
+.p_2022,
+.portfolio_p {
+    color: #002D5C;
+}
+
+.dolina_page {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 110px;
+    display: block;
+}
+
+.images_dolina {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 0px;
+    display: block;
+}
