@@ -2,6 +2,8 @@
   .container {
     width: 960px;
     margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden;
   }
 
   .first_li {
@@ -39,6 +41,8 @@
   .container {
     width: 720px;
     margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden;
   }
 
   .li {
@@ -70,6 +74,9 @@
 @media screen and (max-width: 767px) {
   .container {
     width: 540px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden;
   }
 
   ul {
@@ -99,13 +106,15 @@
   }
 
   .portfolio_p {
-    margin-left: 200px;
+    margin-left: 100px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .container {
     width: 300px;
+    padding: 0 15px;
+    overflow: hidden;
     margin: 0 auto;
   }
 
