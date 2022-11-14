@@ -110,9 +110,9 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 470px) {
   .container {
-    width: 300px;
+    width: 420px;
     padding: 0 15px;
     overflow: hidden;
     margin: 0 auto;
