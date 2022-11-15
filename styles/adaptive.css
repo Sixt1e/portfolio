@@ -110,12 +110,16 @@
   }
 }
 
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 479px) {
   .container {
     width: 400px;
     padding: 0 15px;
     overflow: hidden;
     margin: 0 auto;
+  }
+
+  li {
+    font-size: 12px;
   }
 
   h2 {
@@ -153,11 +157,12 @@
   }
 
   .p_2022 {
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 163px;
   }
 
   .portfolio_p {
-    margin-left: 38px;
+    margin-left: 155px;
   }
 }
+
