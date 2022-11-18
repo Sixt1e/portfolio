@@ -95,7 +95,11 @@
     overflow: hidden;
     margin: 0 auto;
   }
-
+  
+  .menu {
+    display: block;
+  }
+  
   li {
     font-size: 12px;
   }
